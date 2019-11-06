@@ -110,7 +110,7 @@ because after this time model seems to stop improving.
 
 ![image](https://user-images.githubusercontent.com/20689930/68335040-0c74ae80-00dc-11ea-95b8-18acd434edc5.png)
 
-##Summary
+## Summary
 My final score is 0.80382 which classify my solution among top 9%. It is significant improvement compared to primitive
 solution (all women survived, all men died) which score 0.76555.
 
